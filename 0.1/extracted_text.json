@@ -1,0 +1,29 @@
+[
+    {
+        "page_number": 1,
+        "text": "INVOICE\n\nPT XYZ\nJI. TB Simatupang No 28\nJakarta\n\nInvoice No. : 23301\nInvoice Date : 2 Feb 2022\n\nB001 \u2014 Bottle 1It 5.000 1.000 100.000\nPembayaran : Sub Total 100.000\nBank Central Asia VAT 11% 50.000\nPT. XYZ Total 150.000\n522000010\n\nHormat kami\n\nIY\n\nSentosa\nFinance Manager\n",
+        "invoice_number": "23301",
+        "invoice_date": "2 Feb 2022",
+        "total_amount": "150000",
+        "barcode": "N/A"
+    },
+    {
+        "page_number": 2,
+        "text": "Faktur Pajak\n\nKade dan Nomor Seri Faktur Pajak : 010.002-22.98048471\n\nPengusaha Kena Pajak\n\nPT XYZ\nJI. TB Simatupang No 28, Jakarta\nNPWP :01.000.111.2-333.444\n\nPembeli Barang Kena Pajak / Penerima Jasa Kena Pajak\nNama* PT Hightech Compamy\n\nAlamat: Mensana Tower Lt 5\n\nNPWP: 01.001.01.000001\n\n| me | Nama Barang Kena Pajak / Jasa Kena Pajak Hera 1 oe eae\nBottle ilt\n\n1 | p.5.000 x 1.000 5.000.000,00'\n\nHarga Jual / Penggantian 5.000.000,00\"\n\nDikurangi Potongan Harga 0.00\n\n0,00\n5.000.000,00:\n550.000,00.\n\n0,00\n\nTotal PPnBM (Pajak Penjualan Barang Mewah)\n\nSesuai dengan ketentuan yang bertaku, Direktorat Jenderal Pajak mengatur bahwa Faktur Pajak ini telah ditandatangant\nsecara elektronik-sehinaga tidak diperlukan tanda tangan basah pada Faktur Pajak ini.\n\nJAKARTA SELATAN, 03 Januari 2022\n\nSentosa\nRicaruy irevat ret\n004.01,2022\nPEMBERITAHUAN. Faitur Pasnk ini telah dilaporken ke Ovektorat Jenderal Pajak can telah mempesoieh pevseajuan sesuat 1 dari q\n\n\u2018dengan ketenhian pecaturan perpalakan yang boraku. PERINGATAN: PKP yang renerbikan Fakiut Pajsk yang dak sesuai\nengi headaan yang sebecaerya \u00e9anvatau Sesanggutnya sebagoimana dimaksud Pasal 13 eyat (9) UU PPN Skene! sarkei\nsesuai dengan Pasa! 14:ayat (4) UU KUP\n",
+        "tax_barcode_real": "https://kraftinvoicehandling.azurewebsites.net/dummy.xml"
+    },
+    {
+        "page_number": 3,
+        "text": "puns Buss oo Rage \u2018nea . =\n5 ; : Warehouse ane 03 HighTech Company\n\nReceiver Ho\nPO Mumber 410124 tine = 1\n\nsttesitaeseintenntie Workstation\n* Receiver Ticket * UseriD iat Goods Receipt Note\nttittereaesteniest i : ine 15:5 -\nSeEEEEEIES! EOD woe Bukti Penerimaan Barang\n\nAivice Note 12345\n\nVendor- Vendor Naae~ Buyer TranCd\nStatus Reason Reason Code Description PERHATIAN !!\n00010 XYZ, PT \u2014 HARAP BUKTI INI DILAMPIRKAN\n= tg PADA SAAT PENAGIHAN\n-Unit of Measure-\n\nType Item Number Description Rec Pur -Stock Due\n\nBottle 1it RL ORL OR\n\nBottle 1It\n\nVendor Lot\n\nPenerima :\n\n",
+        "GR_number": "410124",
+        "GR_date": "N/A",
+        "barcode": "N/A"
+    },
+    {
+        "page_number": 4,
+        "text": "DELIVERY ORDER\n\nPT XYZ\nJI. TB Simatupang No 28\nJakarta\n\nDONo. :12345\nDO Date : 2 Jan 2022\n\nB001 \u2014 Bottle 1It 5.000 1.000 5.000.000\nPembayaran : Sub Total 5.000.000\nBank Central Asia VAT 11% 550.000\nPT. XYZ Total 5.550.000\n522000010\n\nHormat kami\n\nAll\n\nSentosa\nFinance Manager\n",
+        "DO_number": "12345",
+        "DO_date": "2 Jan 2022",
+        "barcode": "N/A"
+    }
+]
