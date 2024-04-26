@@ -1,0 +1,33 @@
+TUTORIAL INSTALL SENTOSA OCR (WINDOWS)
+
+STEP.1
+
+INSTALL PYTHON : https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+INSTALL TESSERACT : https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
+
+STEP.2
+
+INSTALL SENTOSA OCR : https://codeload.github.com/yyantzee/SENTOSAOCR/zip/refs/heads/main (JIKA BELUM INSTALL)
+
+STEP.3
+
+SETTING DI VSCODE SEPERTI BERIKUT :
+ 1. BUKA CMD DAN KETIKAN `pip install Flask pymupdf numpy pytesseract pillow opencv-python pyzbar`
+ 2. JIKA SUDAH BUKA FOLDER SENTOSA OCR YANG SUDAH DI INSTALL
+ 3. SETELAH ITU BUKA TERMINAL DI VSCODE DAN KETIKAN `cd 0.1`
+ 4. GANTI pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" SESUAI DIRECT KAMU 
+ 5. LALU SETELAH SUDAH MASUK KE FOLDER 0.2 KETIK LAGI DI TERMINAL `py .\app.py`
+ 6. JIKA BERHASIL MAKA MUNCUL SEPERTI BERIKUT DI TERMINAL VSCODE ANDA
+		 * Serving Flask app 'app'
+ 		 * Debug mode: on
+      		 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ 		 * Running on http://127.0.0.1:5000
+      		 Press CTRL+C to quit
+ 		 * Restarting with stat
+ 		 * Debugger is active!
+ 		 * Debugger PIN: *********
+
+STEP.4
+
+BUKA POSTMAN GANTI MENJADI POST LALU KETIKAN http://127.0.0.1:5000/extract
+LALU KLIK body DAN ISI KEY DENGAN FILE dan VALUE DENGAN FILE PDF YANG INGIN ANDA SCAN
